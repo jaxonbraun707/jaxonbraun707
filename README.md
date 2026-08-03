@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Jaxon Braun, currently studying Software Engineering with a Minor in Aerospace Engineering at the University of Calgary.
+- Software / Aerospace Engineering Graduate
+- APEGA E.I.T.
+- Technical Quality Assurance Specialist @ Magnum Cementing Services
 
 <!---
 jaxonbraun707/jaxonbraun707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
